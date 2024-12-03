@@ -17,7 +17,7 @@
     "id": 3,
     "name": "Himel",
     "age": 20,
-    "grade": "4th",
+    "semester": "4th",
     "subjects": ["Physics", "Chemistry", "Math"]
   }
 ]
